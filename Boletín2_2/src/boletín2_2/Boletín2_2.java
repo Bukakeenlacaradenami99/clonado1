@@ -9,7 +9,7 @@ public class Boletín2_2 {
     public static void main(String[] args) {
         
         
-        float lado=3; float área;
+        float lado=7; float área;
         
         área=lado*lado;
         área=(float)Math.pow(lado, 2);

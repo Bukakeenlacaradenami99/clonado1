@@ -9,7 +9,7 @@ public class Boletín2_1 {
      
         
         
-        float base=4;  float altura=3;  float area;
+        float base=5;  float altura=6;  float area;
         
         area=base*altura/2;
         
