@@ -9,7 +9,7 @@ public class Boletín3_4 {
         
         	int cant_euros;
 		int billetes_100,billetes_20,billetes_5,monedas_euro;
-		System.out.println("Introduce la cantidad que deseas desglosar: ");
+		System.out.println("Introduce la cantidad perra que deseas desglosar: ");
 		Scanner sc=new Scanner(System.in);
 		cant_euros=sc.nextInt();
 		billetes_100=cant_euros/100;

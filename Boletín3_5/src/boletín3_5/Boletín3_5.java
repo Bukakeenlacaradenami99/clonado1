@@ -11,7 +11,7 @@ public class Boletín3_5 {
         
 		float sueldo_total,comisión,sueldo_bruto,sueldo_neto,sueldo_fijo;
 		int ventas;  int dietas; float km; float irpf;
-		System.out.println("Introduce tus ventas, por favor: ");
+		System.out.println("Introduce tus ventas moro, por favor: ");
 		Scanner sc=new Scanner(System.in);
 		ventas=sc.nextInt();
 		ventas=ventas*1000;
